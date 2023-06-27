@@ -1,0 +1,13 @@
+Name,Internal name,Type,Description,Group name,Form field,Options,Read only value,Read only definition,Calculated,External options,Deleted,Hubspot defined,Created user,Usages
+Address,address,string,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Unknown user,Object requirement (1)
+City,city,string,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Object requirement (1)
+County,county,string,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Object requirement (1)
+Fax,fax,string,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Object requirement (1)
+Management Company,management_company,string,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,"Object requirement (1), Association card (1)"
+Management ID,management_id,number,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,"Automation platform flow (1), Object requirement (1)"
+Metro,metro,string,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Object requirement (1)
+Office ID,office_id,number,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Object requirement (1)
+Phone,phone,string,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Object requirement (1)
+State,state,string,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,"Object requirement (1), Association card (1)"
+Submarket,submarket,string,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Object requirement (1)
+ZIP,zip,string,management_office_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Object requirement (1)

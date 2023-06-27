@@ -1,0 +1,16 @@
+Name,Internal name,Type,Description,Group name,Form field,Options,Read only value,Read only definition,Calculated,External options,Deleted,Hubspot defined,Created user,Usages
+BTR/SFR Property Count,btr_sfr_property_count,number,classification,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Section 8 Property Count,section_8_property_count,number,classification,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Senior Property Count,senior_property_count,number,classification,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Student Housing Property Count,student_housing_property_count,number,classification,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Tax Credit Property Count,tax_credit_property_count,number,classification,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Average Units Managed,average_units_managed,number,management_company_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Conventional Property Count,conventional_property_count,number,management_company_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+HQ Address,hq_address,string,management_company_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Management ID,management_id,number,management_company_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Name,name,string,management_company_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Unknown user,
+Phone,phone,string,management_company_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Association card (1)
+Software System,software_system,string,management_company_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Total Properties,total_properties,number,management_company_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Total Units Managed,total_units_managed,number,management_company_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Association card (1)
+Website,website,string,management_company_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Association card (1)

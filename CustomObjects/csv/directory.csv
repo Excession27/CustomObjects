@@ -1,0 +1,15 @@
+Name,Internal name,Type,Description,Group name,Form field,Options,Read only value,Read only definition,Calculated,External options,Deleted,Hubspot defined,Created user,Usages
+City,city,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Department,department,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Email,email,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Association card (1)
+Employee Status,employee_status,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+LinkedIn Account,linkedin_account,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Location,location,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Management Company,management_company,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Management ID,management_id,number,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Metro,metro,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Name,name,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Unknown user,
+Phone Number,phone_number,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Staff ID,staff_id,number,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+State,state,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Title,title,string,management_staff_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,Association card (1)

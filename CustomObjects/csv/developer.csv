@@ -1,0 +1,12 @@
+Name,Internal name,Type,Description,Group name,Form field,Options,Read only value,Read only definition,Calculated,External options,Deleted,Hubspot defined,Created user,Usages
+City,city,string,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+County,county,string,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Developer ID,developer_id,number,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Email,email,string,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Metro,metro,string,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Name,name,string,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Unknown user,
+Phone,phone,string,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+State,state,string,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Street Address,street_address,string,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+Website,website,string,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
+ZIP,zip,string,developer_information,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Demo User,
